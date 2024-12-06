@@ -34,6 +34,8 @@ The objective is to categorize their performance as "Good", "Average", or "Bad" 
 2. Install the required dependencies:
    ```bash
    pip install pandas
+   pip install matplotlib
+   pip install seaborn
    ```
 3. Open and run the Jupyter Notebook: `student_performance_analysis.ipynb`.
 
